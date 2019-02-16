@@ -23,3 +23,7 @@
 /nbdist/
 /.nb-gradle/
 /build/
+
+##  target
+helloServlet/target/*
+events/target/*

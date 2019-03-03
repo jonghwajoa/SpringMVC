@@ -1,1 +1,12 @@
 .idea/*
+*/.project
+
+*/.classpath
+*/.idea
+*/target
+*/.mvn
+*/mvnw*
+*/pom.xml
+*/.settings
+
+*/*.iml
